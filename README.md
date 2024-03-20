@@ -1,0 +1,2 @@
+对于上面的文件来说，Parallel_design中的c++代码对应平凡算法，parallel_2对应cache算法。
+project_1对应平凡算法的循环展开，project_3对cache算法的循环展开。
